@@ -13,8 +13,8 @@ A WEBAPI created to manager nugets version of solutions
 * SQL Lite
 
 ### Executing program
-Clone the repository: https://github.com/markintela/nugetversionsmanager.git
-Run command : dotnet watch
+* Clone the repository: https://github.com/markintela/nugetversionsmanager.git
+* Run command : dotnet watch
 
 ## Help
 Any advise for common problems or issues ask god.
