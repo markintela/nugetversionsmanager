@@ -1,4 +1,4 @@
-# Nuget Version Manager
+# Nuget Version Manager API
 
 ## Description
 
