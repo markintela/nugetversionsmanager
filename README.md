@@ -2,7 +2,7 @@
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A WEBAPI created to manager nugets version of solutions
 
 ## Getting Started
 
