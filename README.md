@@ -1,7 +1,8 @@
 # Nuget Version Manager API
 
 ## Description
-A WEBAPI created to manager nugets version of solutions
+A WEBAPI created to manager nugets version of solutions.
+SLQ Lite database included.
 
 ## Getting Started
 
