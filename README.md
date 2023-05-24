@@ -1,30 +1,23 @@
 # Nuget Version Manager API
 
 ## Description
-
 A WEBAPI created to manager nugets version of solutions
 
 ## Getting Started
 
 ### Tecnologies
-* .NET 5 Framewrok
-* Entity Framewrok Core
-* Swagger
-
+* .NET 5 Framework
+* Entity Framework Core
+* 
 ### Executing program
-
+Clone the repository: https://github.com/markintela/nugetversionsmanager.git
 Run command : dotnet watch
 
 ## Help
-
 Any advise for common problems or issues ask god.
 
 ## Authors
-
-Contributors names and contact info
-
 Marcus Quintela (https://github.com/markintela) 
-
 
 ## Version History
 
