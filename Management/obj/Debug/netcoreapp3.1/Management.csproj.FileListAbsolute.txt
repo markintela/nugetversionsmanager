@@ -1,0 +1,13 @@
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\bin\Debug\netcoreapp3.1\Management.deps.json
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\bin\Debug\netcoreapp3.1\Management.dll
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\bin\Debug\netcoreapp3.1\Management.pdb
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\obj\Debug\netcoreapp3.1\Management.csproj.AssemblyReference.cache
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\obj\Debug\netcoreapp3.1\Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\obj\Debug\netcoreapp3.1\Management.AssemblyInfoInputs.cache
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\obj\Debug\netcoreapp3.1\Management.AssemblyInfo.cs
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\obj\Debug\netcoreapp3.1\Management.csproj.CoreCompileInputs.cache
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\obj\Debug\netcoreapp3.1\Management.csproj.CopyComplete
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\obj\Debug\netcoreapp3.1\Management.dll
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Management\obj\Debug\netcoreapp3.1\Management.pdb

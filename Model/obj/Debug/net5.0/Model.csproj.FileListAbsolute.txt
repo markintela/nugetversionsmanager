@@ -1,0 +1,15 @@
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\bin\Debug\net5.0\Model.deps.json
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\bin\Debug\net5.0\Model.runtimeconfig.json
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\bin\Debug\net5.0\Model.runtimeconfig.dev.json
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\bin\Debug\net5.0\Model.dll
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\bin\Debug\net5.0\Model.pdb
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\obj\Debug\net5.0\Model.dll
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\obj\Debug\net5.0\Model.pdb
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\obj\Debug\net5.0\Model.genruntimeconfig.cache
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\NB28972\source\repos\NugetsVersionsManager\Model\bin\Debug\net5.0\ref\Model.dll
