@@ -10,7 +10,7 @@ A WEBAPI created to manager nugets version of solutions
 * Entity Framework Core
 
 ### Database
-* SQL Lite
+* SQLLite
 
 ### Executing program
 Clone the repository: https://github.com/markintela/nugetversionsmanager.git
