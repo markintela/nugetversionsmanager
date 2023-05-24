@@ -8,7 +8,10 @@ A WEBAPI created to manager nugets version of solutions
 ### Tecnologies
 * .NET 5 Framework
 * Entity Framework Core
-* 
+
+### Database
+* SQL Lite
+
 ### Executing program
 Clone the repository: https://github.com/markintela/nugetversionsmanager.git
 Run command : dotnet watch
