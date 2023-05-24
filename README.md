@@ -30,9 +30,20 @@ Marcus Quintela (https://github.com/markintela)
 * 0.1
     * Initial Release
 
+## Project Development Cronogram
+
+* May 2023 - Create Solution
+* May 2023 - Developer a minimal API (Model, Repositories, Controllers)
+* May 2023 - Create Logs with SEQ
+* May 2023 - Adjustment of views and relashionships
+* June 2023 - Check endpoints
+
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+
+
 
 
 
