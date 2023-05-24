@@ -16,6 +16,7 @@ SLQ Lite database included.
 ### Executing program
 * Clone the repository: https://github.com/markintela/nugetversionsmanager.git
 * Run command : dotnet watch
+* Or Just Run the API project
 
 ## Help
 Any advise for common problems or issues ask god.
