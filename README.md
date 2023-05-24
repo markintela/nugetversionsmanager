@@ -1,6 +1,6 @@
 # Project Title
 
-Simple overview of use/purpose.
+Nuget Version Manager
 
 ## Description
 
