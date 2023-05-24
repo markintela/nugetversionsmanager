@@ -1,6 +1,4 @@
-# Project Title
-
-Nuget Version Manager
+# Nuget Version Manager
 
 ## Description
 
